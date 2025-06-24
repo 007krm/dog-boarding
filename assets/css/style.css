@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
   }
+
+  .container{
+    padding: 10px;
+  }
+
+  .card .text-center {
+    margin: 10px;
+    border-color: black;
+  }
+
+  
